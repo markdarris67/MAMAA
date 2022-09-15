@@ -1,6 +1,3 @@
-# DISCOUNTED CASＨ FLOW
-
-Discounted cash flow (DCF) refers to a valuation method that estimates the value of an investment using its expected future cash flows.
 
 [TOC]
 ## Meta(META)  ![](https://i.imgur.com/7pKeqZo.png)
@@ -9,6 +6,7 @@ Meta Platforms, Inc., doing business as Meta and formerly named Facebook, Inc., 
 
 [Yahoo Finance](https://finance.yahoo.com/quote/META/cash-flow?p=META)
 [FINVIZ](https://finviz.com/quote.ashx?t=META)
+[morningstar](https://www.morningstar.com/stocks/xnas/meta/financials)
 
 ## Alphabet(GOOGL)
 
@@ -22,8 +20,9 @@ Meta Platforms, Inc., doing business as Meta and formerly named Facebook, Inc., 
 
 ## Apple (AAPL)
 
+#### DISCOUNTED CASＨ FLOW
 
-### Input list
+Discounted cash flow (DCF) refers to a valuation method that estimates the value of an investment using its expected future cash flows.
 1. Operating cash flow
 2. Total debt
 3. Cash and short term investments
